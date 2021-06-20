@@ -4,6 +4,7 @@
 *vscode/
 *.csv
 *.data
+*.test
 *.png
 *fig/
 *.pt
