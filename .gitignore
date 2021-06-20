@@ -1,0 +1,14 @@
+# *gitignore
+*.DS_Store
+*__pycache__
+*vscode/
+*.csv
+*.data
+*.test
+*.png
+*fig/
+*.pt
+*.npz
+*.npy
+*.ipynb_checkpoints/
+# *.ipynb
